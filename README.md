@@ -12,8 +12,12 @@ Whether your wallet provides 12, 18, or 24 seed words, the number of words deter
 2. Refer to the BIP39 wordlist on GitHub - LINK: https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt
 3. Match each seed word with its corresponding number and write down the number on the CipherTag packaging provided.  There is a series of yellow boxes that are numbered 1 to 24 for each of your seed words.  Each box will have a single digit number written in it.
    for example if the 3rd word is EMPOWER, it's corresponding number on the BIP39 list is '585'.  The numbers that would be written in each box would be: 0, 5, 8 and 5
-4. Repeat this for all the seed words for your hardware/Web3/mobile wallet
+4. Repeat this for all the seed words for your hardware/Web3/mobile wallet.
 5. Use an automatic centre punch(not included) and position the point over the number in the circle for the digit.
 6. The grid array is set up so that the FIRST digit of each number from the word list is the left most vertical column.  Each number counts down from '0' top row, '1' middle row and '2' bottom row.  The 2nd, 3rd and 4th digits of each number are marked 0-1 and are horizontal with the 2nd digit being the top horizontal row, the 3rd digit being the middle horizontal row and the 4th digit being the bottom horizontal row.  This can be explained easier in the photo below
 
 ![PROFIT Example](https://github.com/CipherSechs/amazon-instructions/assets/97874862/d5e3052c-5034-4211-a1eb-9bfd3487728d)
+
+7. Once you have finished marking the CipherTags with a punch, example each tag and check that each marked number corresponds with the number that was written on the yellow boxes.
+8. Confirm that the numbers and the punch marks match.  Also confirm that the numbers written down match exactly with your wallets original seed words.
+9. When you are confident that everything is correctly backed up, secure the CipherTags in a safe location that only you know of.
