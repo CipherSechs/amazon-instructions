@@ -1,8 +1,8 @@
 # Amazon Customers - Instructions for CipherTag
 
-When you start your journey into the world of cryptocurrency, one of the essential things you'll come across is a cryptocurrency wallet.<br>A cryptocurrency wallet is like a digital bank account that allows you to store, send, and receive digital currencies. To ensure the security of your wallet and its contents, wallets often generate a set of seed words, also known as a mnemonic phrase.
+When you start your journey into the world of cryptocurrency, one of the essential things you'll come across is a cryptocurrency wallet.<br>A cryptocurrency wallet is like a digital bank account that allows you to store, send, and receive digital currencies.<br>To ensure the security of your wallet and its contents, wallets often generate a set of seed words, also known as a mnemonic phrase.
 
-These seed words serve as a backup and recovery mechanism for your wallet. They are typically made up of 12, 18, or 24 randomly chosen words from a predefined list of words known as the BIP39 word list. This list consists of 2048 unique words, carefully selected to minimize the chances of generating similar or confusing words.
+These seed words serve as a backup and recovery mechanism for your wallet.<br>They are typically made up of 12, 18, or 24 randomly chosen words from a predefined list of words known as the BIP39 word list.<br>This list consists of 2048 unique words, carefully selected to minimize the chances of generating similar or confusing words.
 
 The purpose of these seed words is to create a human-readable representation of a complex cryptographic key. This means that by remembering or safely storing your seed words, you can regain access to your wallet and funds even if you lose or replace your device.
 
