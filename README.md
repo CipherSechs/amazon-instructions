@@ -15,5 +15,5 @@ Whether your wallet provides 12, 18, or 24 seed words, the number of words deter
 4. Repeat this for all the seed words for your hardware/Web3/mobile wallet
 5. Use an automatic centre punch(not included) and position the point over the number in the circle for the digit.
 6. The grid array is set up so that the FIRST digit of each number from the word list is the left most vertical column.  Each number counts down from '0' top row, '1' middle row and '2' bottom row.  The 2nd, 3rd and 4th digits of each number are marked 0-1 and are horizontal with the 2nd digit being the top horizontal row, the 3rd digit being the middle horizontal row and the 4th digit being the bottom horizontal row.  This can be explained easier in the photo below
-7. 
+
 ![PROFIT Example](https://github.com/CipherSechs/amazon-instructions/assets/97874862/d5e3052c-5034-4211-a1eb-9bfd3487728d)
